@@ -7,7 +7,7 @@ Project Scope: Virtual Machine Deployment, Cloud Storage Integration, and Web Se
 The foundation of this project was the deployment of a Windows Server 2022 Datacenter virtual machine on Microsoft Azure. I established secure access via Remote Desktop Protocol (RDP) to initialize the system management environment.
 
 Figure 1: Successful RDP session dashboard showing the active Windows Server desktop.
-![Successful RDP Session](screenshots/vm-rdp.jpg)
+![Successful RDP Session](screenshots/vm-rdp.png)
 
 2. Azure File Share & Cloud Storage Integration
 To standardize data management across cloud resources, I engineered a high-scalability storage solution.
